@@ -7,7 +7,8 @@ public class PlayerLocomotionInput : MonoBehaviour, PlayerControls.IPlayerAction
     public PlayerControls PlayerControls { get; private set; }
     public Vector2 MoveInput { get; private set; }
     public Vector2 AimInput { get; private set; }
-    public bool FirePressed { get; private set; }
+    public bool FirePressed { get;  set; }
+    public  bool MeleePressed { get; set; }
     
     
     private void OnEnable()
@@ -42,11 +43,22 @@ public class PlayerLocomotionInput : MonoBehaviour, PlayerControls.IPlayerAction
         if (context.started)
         {
             FirePressed = true;
-            Debug.Log("Fire Pressed");
         }  
         else if (context.canceled)
         {
             FirePressed = false;
+        }
+    }
+    
+    public void OnMelee(InputAction.CallbackContext context)
+    {
+        if (context.started)
+        {
+            MeleePressed = true;
+        }  
+        else if (context.canceled)
+        {
+            MeleePressed = false;
         }
     }
 }

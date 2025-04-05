@@ -1,19 +1,23 @@
 using UnityEngine;
 
-public class BulletManager : MonoBehaviour
+public class Bullet : MonoBehaviour
 {
+    public int damage = 1;
     public float lifeTime = 5f;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+
+    private void Start()
     {
-        // Destroy the bullet after a certain time
-      
-        
+        Destroy(gameObject, lifeTime);
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-         Destroy(gameObject);
-        
+        EnemyHealth enemy = collision.GetComponent<EnemyHealth>();
+        if (enemy != null)
+        {
+            Debug.Log("[BULLET] Hit enemy!");
+            enemy.TakeDamage(damage);
+            Destroy(gameObject);
+        }
     }
 }
