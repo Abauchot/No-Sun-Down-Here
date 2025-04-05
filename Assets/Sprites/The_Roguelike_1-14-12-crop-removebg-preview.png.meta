@@ -1,0 +1,4630 @@
+fileFormatVersion: 2
+guid: d3f36b8a80e494d28b008387fed7849c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4370618035019766383
+    second: The_Roguelike_1-14-12-crop-removebg-preview_0
+  - first:
+      213: -8508984237861390590
+    second: The_Roguelike_1-14-12-crop-removebg-preview_1
+  - first:
+      213: -6626022818213237988
+    second: The_Roguelike_1-14-12-crop-removebg-preview_2
+  - first:
+      213: 4600166986260641222
+    second: The_Roguelike_1-14-12-crop-removebg-preview_3
+  - first:
+      213: 7091585257315387383
+    second: The_Roguelike_1-14-12-crop-removebg-preview_4
+  - first:
+      213: 1352341375264774807
+    second: The_Roguelike_1-14-12-crop-removebg-preview_5
+  - first:
+      213: -4882038907589981525
+    second: The_Roguelike_1-14-12-crop-removebg-preview_6
+  - first:
+      213: -913498947293845507
+    second: The_Roguelike_1-14-12-crop-removebg-preview_7
+  - first:
+      213: -5564089313151562574
+    second: The_Roguelike_1-14-12-crop-removebg-preview_8
+  - first:
+      213: 1299934596127975090
+    second: The_Roguelike_1-14-12-crop-removebg-preview_9
+  - first:
+      213: 543922425865760733
+    second: The_Roguelike_1-14-12-crop-removebg-preview_10
+  - first:
+      213: 3092930302439241897
+    second: The_Roguelike_1-14-12-crop-removebg-preview_11
+  - first:
+      213: 7394424673043452386
+    second: The_Roguelike_1-14-12-crop-removebg-preview_12
+  - first:
+      213: -7013455268680221139
+    second: The_Roguelike_1-14-12-crop-removebg-preview_13
+  - first:
+      213: 6236153610255338078
+    second: The_Roguelike_1-14-12-crop-removebg-preview_14
+  - first:
+      213: 6799403158346017339
+    second: The_Roguelike_1-14-12-crop-removebg-preview_15
+  - first:
+      213: 2016850900932375095
+    second: The_Roguelike_1-14-12-crop-removebg-preview_16
+  - first:
+      213: -2050596574289939752
+    second: The_Roguelike_1-14-12-crop-removebg-preview_17
+  - first:
+      213: -3965919398289715652
+    second: The_Roguelike_1-14-12-crop-removebg-preview_18
+  - first:
+      213: -1422070899186480380
+    second: The_Roguelike_1-14-12-crop-removebg-preview_19
+  - first:
+      213: -3758927982046750326
+    second: The_Roguelike_1-14-12-crop-removebg-preview_20
+  - first:
+      213: -2785081253094723963
+    second: The_Roguelike_1-14-12-crop-removebg-preview_21
+  - first:
+      213: -48262025992364178
+    second: The_Roguelike_1-14-12-crop-removebg-preview_22
+  - first:
+      213: 9122601454110294482
+    second: The_Roguelike_1-14-12-crop-removebg-preview_23
+  - first:
+      213: -8967350840980802145
+    second: The_Roguelike_1-14-12-crop-removebg-preview_24
+  - first:
+      213: -2373179211977349292
+    second: The_Roguelike_1-14-12-crop-removebg-preview_25
+  - first:
+      213: 8507144272952023050
+    second: The_Roguelike_1-14-12-crop-removebg-preview_26
+  - first:
+      213: 2143559293066072712
+    second: The_Roguelike_1-14-12-crop-removebg-preview_27
+  - first:
+      213: 689705019278926004
+    second: The_Roguelike_1-14-12-crop-removebg-preview_28
+  - first:
+      213: 7381919660431217742
+    second: The_Roguelike_1-14-12-crop-removebg-preview_29
+  - first:
+      213: 7119161320109660172
+    second: The_Roguelike_1-14-12-crop-removebg-preview_30
+  - first:
+      213: 8237219897382789119
+    second: The_Roguelike_1-14-12-crop-removebg-preview_31
+  - first:
+      213: 5559286089007837928
+    second: The_Roguelike_1-14-12-crop-removebg-preview_32
+  - first:
+      213: 7759012704434317360
+    second: The_Roguelike_1-14-12-crop-removebg-preview_33
+  - first:
+      213: 8325327935041175173
+    second: The_Roguelike_1-14-12-crop-removebg-preview_34
+  - first:
+      213: 4253192292666248170
+    second: The_Roguelike_1-14-12-crop-removebg-preview_35
+  - first:
+      213: 4692216899014218578
+    second: The_Roguelike_1-14-12-crop-removebg-preview_36
+  - first:
+      213: 257338460751126725
+    second: The_Roguelike_1-14-12-crop-removebg-preview_37
+  - first:
+      213: 5948978334361478904
+    second: The_Roguelike_1-14-12-crop-removebg-preview_38
+  - first:
+      213: -2591213469068147085
+    second: The_Roguelike_1-14-12-crop-removebg-preview_39
+  - first:
+      213: -8406060407715207387
+    second: The_Roguelike_1-14-12-crop-removebg-preview_40
+  - first:
+      213: 534939191409552919
+    second: The_Roguelike_1-14-12-crop-removebg-preview_41
+  - first:
+      213: 2422939671845979817
+    second: The_Roguelike_1-14-12-crop-removebg-preview_42
+  - first:
+      213: 7020954606026277108
+    second: The_Roguelike_1-14-12-crop-removebg-preview_43
+  - first:
+      213: -8943064417876814035
+    second: The_Roguelike_1-14-12-crop-removebg-preview_44
+  - first:
+      213: 2353300531776249498
+    second: The_Roguelike_1-14-12-crop-removebg-preview_45
+  - first:
+      213: 1033893480613603273
+    second: The_Roguelike_1-14-12-crop-removebg-preview_46
+  - first:
+      213: 6507407098851724583
+    second: The_Roguelike_1-14-12-crop-removebg-preview_47
+  - first:
+      213: -4192204686358799076
+    second: The_Roguelike_1-14-12-crop-removebg-preview_48
+  - first:
+      213: 7774111901812800548
+    second: The_Roguelike_1-14-12-crop-removebg-preview_49
+  - first:
+      213: 6131089841505144069
+    second: The_Roguelike_1-14-12-crop-removebg-preview_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ad44242fd87ac30800000000000000
+      internalID: 4370618035019766383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207bfde0be30ae980800000000000000
+      internalID: -8508984237861390590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b64ce5a53ab04a0800000000000000
+      internalID: -6626022818213237988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57b83508317df30800000000000000
+      internalID: 4600166986260641222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f74eacf73f5a6260800000000000000
+      internalID: 7091585257315387383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a58b7d05b74c210800000000000000
+      internalID: 1352341375264774807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa867dca738f3cb0800000000000000
+      internalID: -4882038907589981525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76bdf1c899253f0800000000000000
+      internalID: -913498947293845507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bccd0fdf3268c2b0800000000000000
+      internalID: -5564089313151562574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e279b0ab4a0210800000000000000
+      internalID: 1299934596127975090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfe81380966c8700800000000000000
+      internalID: 543922425865760733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8bee719bb4cea20800000000000000
+      internalID: 3092930302439241897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1932310164e9660800000000000000
+      internalID: 7394424673043452386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e393e87933bae90800000000000000
+      internalID: -7013455268680221139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a0a000ba44b8650800000000000000
+      internalID: 6236153610255338078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a22e1d5255c5e50800000000000000
+      internalID: 6799403158346017339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732300b653b4dfb10800000000000000
+      internalID: 2016850900932375095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2b0dbb741da83e0800000000000000
+      internalID: -2050596574289939752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e4c11d15936f8c0800000000000000
+      internalID: -3965919398289715652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bc1983d0ac34ce0800000000000000
+      internalID: -1422070899186480380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89d3dd7aea95dbc0800000000000000
+      internalID: -3758927982046750326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e60b63b576959d0800000000000000
+      internalID: -2785081253094723963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f959c61f9845ff0800000000000000
+      internalID: -48262025992364178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c4bb50bdf99e70800000000000000
+      internalID: 9122601454110294482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95f903dbe19d8380800000000000000
+      internalID: -8967350840980802145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457afb19416c01fd0800000000000000
+      internalID: -2373179211977349292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08dd4ab4a27f0670800000000000000
+      internalID: 8507144272952023050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882d03ae1d37fbd10800000000000000
+      internalID: 2143559293066072712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0ace19f03529900800000000000000
+      internalID: 689705019278926004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e449970f1d8d17660800000000000000
+      internalID: 7381919660431217742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0856df60875cc260800000000000000
+      internalID: 7119161320109660172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffd740aadb705270800000000000000
+      internalID: 8237219897382789119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2351c5e3d862d40800000000000000
+      internalID: 5559286089007837928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038ec8712fc8dab60800000000000000
+      internalID: 7759012704434317360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ef3ceb5a1898370800000000000000
+      internalID: 8325327935041175173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb0dc51bdf560b30800000000000000
+      internalID: 4253192292666248170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253d3d2c86a1e1140800000000000000
+      internalID: 4692216899014218578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0ed1477ff329300800000000000000
+      internalID: 257338460751126725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f66c1ca6440f8250800000000000000
+      internalID: 5948978334361478904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3764cf624192a0cd0800000000000000
+      internalID: -2591213469068147085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527e8ada89ca75b80800000000000000
+      internalID: -8406060407715207387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ea6604c5c7c6700800000000000000
+      internalID: 534939191409552919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6c4945bc200a120800000000000000
+      internalID: 2422939671845979817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0c65cf3017f6160800000000000000
+      internalID: 7020954606026277108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2754095b4ad3e380800000000000000
+      internalID: -8943064417876814035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ed2468d5a98a020800000000000000
+      internalID: 2353300531776249498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7e09f84a0295e00800000000000000
+      internalID: 1033893480613603273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d89e75744fe4a50800000000000000
+      internalID: 6507407098851724583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1bdb8c0c42d5c0800000000000000
+      internalID: -4192204686358799076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c30bfe59133eb60800000000000000
+      internalID: 7774111901812800548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d8be81ab1061550800000000000000
+      internalID: 6131089841505144069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c182a5a7492440fbee13b38f946b26
+      internalID: 1430132819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203961eff4194a2dafa79adcbdd01c3
+      internalID: 719136090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33a0a91fc1674371abcb841202882af
+      internalID: 2010617713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe83d01d1004bf6812db92e74cfe0a
+      internalID: -469623487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f12a9a9eaef34c19a35fdb42a4b5613
+      internalID: -2103010295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148cc17c111254b0c90f8ddcfa9a77c8
+      internalID: 428609375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae32719511514da8a56115d6a0f3527
+      internalID: -433447447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be29860a74fda4aedb6506454fa12c2e
+      internalID: -1900108987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10eabb5fd43b452ba8e92060e7a10d3
+      internalID: -2108804885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc7bd0831f8848ff9c71558139ac6e9
+      internalID: 50519490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1982c2c16704c48ac48fa8840ff53e
+      internalID: -779476266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573409adf54fb4faf89c961a4bf185d6
+      internalID: 1301463345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256868091e577491bbc9b26f6c181695
+      internalID: 1010526242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0d9f3f62ec40fbbfdb655a7a195ec
+      internalID: 910100333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e79cd3e7e3b466a86ff7558c718124
+      internalID: 1730294506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d936726348a4db9a87ec2ab826ebf2
+      internalID: -156332040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2d7e8a6b7b4dea89d5908f555d6ff
+      internalID: 437539488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a40d979b4244369a7a5b4147f5c156
+      internalID: -211795571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35414b1479b754e7bafa6639bd1949be
+      internalID: 1087418836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78b1a5774414a00b25cb78047edf1b
+      internalID: 2054900436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912282bf36ada415c92e40ad3b3344f7
+      internalID: 1552148473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adebb85eb9b14cd1a1790069707dbf7
+      internalID: 1144075341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6fb241567ea4ce294573907fc61fbf
+      internalID: 710693917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f70ddf372ed14fc0ad954c9f0aa854c
+      internalID: -1302969987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05a6d98f2ad47d4bc8eca62b00f644
+      internalID: 1464196296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093b95177fb51425ebfc94650f6d28e5
+      internalID: -1319024143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526ea506168d4a66a3aba65908396dd
+      internalID: 1454013205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ba9295a1ac4bf59973172dbf58a4b
+      internalID: -1441740755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c945af56a3d904c1da37ca696da0c4f6
+      internalID: -1824073599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a354de5b09a34f89864d7336d874259
+      internalID: 558522424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f04809700e94ebea553b1eb7321839
+      internalID: 93625882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29814ff5ee34a410287ddf21db376c1f
+      internalID: 1846727171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e847fb080cd74f668dc2820304e5cc3
+      internalID: -2016915059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d37798b2f1f4e16ac20617b46c449d
+      internalID: -2110379424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d6f17ad0d74c218668a7d22a101d3
+      internalID: -164741660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea01aed8714f646928c06e9c3d77346e
+      internalID: 1781787344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e8b9d911574d5da418fdd3fa30004
+      internalID: -1144082547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab484062876847d48f42d9e5ea6c172
+      internalID: 1635451818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f31a23c94a44245aaf5720624b9208
+      internalID: 611376301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574500a57a114827a95d1421cb4ee54
+      internalID: -2098500819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58258b8305614e41b5e9f6997fc4677
+      internalID: 169254302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3c3041f7a94cdc971db9f15a6fd99
+      internalID: 151295423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84b9e168f688434d9b15c69e9137569
+      internalID: 903484800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3be7afa5c445c89a698a7092f1f5a
+      internalID: -2058315542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e4a1aeadc944c07bbf1359a56ed52a
+      internalID: -1284733119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d077e1fce134094ad0ba312fa672d3
+      internalID: -660993850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e83a77510e48f7a9204d9bef4667c
+      internalID: -632760620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bd36848ce7b49c99008c6c1b0b8be5
+      internalID: -2120573329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26616c0ff6924436b03eb1f5977a79c
+      internalID: 52290130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d0542680818487293d0fb6df14ed61
+      internalID: 405735669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6fbc925f4944bbe9e344341bf9f647
+      internalID: -1310062596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f5cb6ac78f4cc7a06cc76d438aa7d
+      internalID: 2021809438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a3a6df4b874720bd309f501850bc1
+      internalID: -1081608989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ef1b515bd445a38985bc2cbc16044
+      internalID: 1112424809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d17671e1a8784ef09923724b4991767
+      internalID: -1367277273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11572519de7e44f2ea791959688b7809
+      internalID: 827312192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df655d2d67a0c4377a746ec593a50ad3
+      internalID: 789858893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699144b71f324d33aafc3c2a64c72c9
+      internalID: 607593337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47669338a9e8c40e98351eac30be0609
+      internalID: -1913599840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb970c741fad1445f8a6448564f8cfe3
+      internalID: -1206083758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27765181fb31946b3937af23b30a9d71
+      internalID: 1978246209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c48863234264ffb834c9d18a0e8456
+      internalID: 1631832898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07bc467ec8534e23b9d39c50517265e
+      internalID: 641378687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814702cd8913496ea264b3267c24fea
+      internalID: -979440864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed052e8e3d341a18c1d7aff19a1714
+      internalID: 678372653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e92a38c7d34f30b1e7e45d1dad51e
+      internalID: 2138577647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aefad3e7d81472da020850e5d21163
+      internalID: -450165038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3756f0f65ee447a88beab0da5f1b108
+      internalID: 907742472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ac942e965b41a3bd864e556c79a62
+      internalID: -1876062922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df6e9ba0ec134c5dadb2d4e52d7e418
+      internalID: -587771463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a375d527a0ad4c4eb42666f50161ff0
+      internalID: 315452112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87064e2fea6de41979f875560e851fa9
+      internalID: -803474443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7048e0363892f4d4888c1aa99db52746
+      internalID: -1845991191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4516b275031804168a9757858b6a29e3
+      internalID: 1620919140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e72b496f0ff47f8a7597e088d07ae7
+      internalID: 717875923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8482d77e829d44f0aac4f794d124976
+      internalID: -859511976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059481aae08846d4a340dd0c4a66b93
+      internalID: 1423875139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9aebc537984a42b000e92448e27ca
+      internalID: -1246627928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b3189fddcf4c35bb71b8a7f6b2148
+      internalID: 872115112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a39d7cb08aa24755983d568e48e92f4
+      internalID: -1415232916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54dc92fa8fea4617a0826cdf4d354d3
+      internalID: -107461392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a62dd193f574658910a9c3451f29bc
+      internalID: -190824377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec08e4df46984a7ca5d0de00cbd66ee
+      internalID: 703860774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa63af6265ae40e2bc3e0be9513e4cf
+      internalID: 444367375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405bf4de9a07246ac96cb958129e6adb
+      internalID: 1413014016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d967dade1714b5ab9ea6f8de1289cf
+      internalID: -709554938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cadc44a6142e4acf97383a74f9c1b9f
+      internalID: -599223478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82938fd576aa42b98a6324737bb7f6c
+      internalID: -332095560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac6e3bdf21c242d7a98226cf3bd2ba4
+      internalID: -1992886869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ddebc2ea174714a75d40762b0de72
+      internalID: -1150670283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6886798f425fe4c99be8408ab228c842
+      internalID: 1488088372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8499148a4b14e56bda4184d39e0ebf
+      internalID: 900663758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482ea090569d143639a24b65bbf0ce54
+      internalID: 2126264973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27004f3cb99d3411e87981d404c85994
+      internalID: -471199177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3d97df2a86b44788a58ad3526ddc1d
+      internalID: 1172460743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd5f8000e634acab4ab2229ab10106
+      internalID: 278874323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c181caf6c627445da9ae6cba68715584
+      internalID: 601927252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4647e250b5b4d73a006c5dca93cf7a
+      internalID: -935376456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac7c7a5b4e74f908ac2183e5cab4ae
+      internalID: 2047517908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a3ab678e4b345b88d9d1a10289ebce
+      internalID: 1749109224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f963e9e83003475293e512f06c0d789
+      internalID: -713843685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d22db6087c64bc8bf7e6f489dfe89b
+      internalID: 1774371704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3e78ca70da24bb78420e7fdc52b78a
+      internalID: -1849860629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392670c9b736a4a4abbb0e796cfba266
+      internalID: -1350153560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce99c6b566348d4b07cf3bc480fa91
+      internalID: 1391069252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5472cf8520954654b781d805b98af0a
+      internalID: 1669214267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8b50b9ade645d7904a80efc4e69c9
+      internalID: 881753993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ce4697f0534ba3b5f5d28ae2cc3a5
+      internalID: 1143321477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb7294af81d43af8c7709273a35085
+      internalID: -2026163693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4cebd06d8f04ca386f7f875a0aed5f
+      internalID: 1777406740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567b3e9e272504d4b813b9905a7cfa9a
+      internalID: 730898217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3bea2ae03c4e188d628effe41a74d
+      internalID: 650018124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5352e18e9e74bb9b5e514546b7d440
+      internalID: 894345222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f6a8d3b7b7d45d59548d7d29a6438a
+      internalID: -393590603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810c6d28fe634c3ab714f97ff753489
+      internalID: -281263358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493656e125e15437ca1eb416e4b43df6
+      internalID: 1558273924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2897234bc7e4121945ea1bc3b5676e
+      internalID: -494412085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8efa981e961c4ea29e4162ba6942ac4
+      internalID: -1564060311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df4ca6d3587a42a78ac28c3002225c7
+      internalID: 237796284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724bd1895b5a542948dd1d4de0c93728
+      internalID: -592712636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee778367f3766464e81b2e229cc3571d
+      internalID: -1956958186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d0010e39644797bda805d5dbbcaac
+      internalID: 1769690521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6af48c70ba49909aa649305bd3f1f
+      internalID: 2111059499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5998c7da2d893460ead09ff2be44a1ad
+      internalID: 1307467358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fe35b72601841338aafba750aaa06f
+      internalID: 692669561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2295c91d9647dc9dea45208cdb299
+      internalID: -741809337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521763b6d686f4eaeb9b216b346fc1e5
+      internalID: -856057863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a340ffefb054a424fabb96abac701534
+      internalID: -1228458808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5487df1798e6646bc93fa38fefec240a
+      internalID: 143062298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b684345dde7034925ae8a290aa5050f9
+      internalID: 572813977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32bc31660ba4cc989fdfa64c55bc59
+      internalID: 1255278270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2fd8ff1b014114896698a143c52b2
+      internalID: -421826639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd3b90990d246cdbd8beee80da8a03
+      internalID: 2122084220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3855060ce43b4346aa00bc70cc23537
+      internalID: -599345871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2474bb84501489eae37f7f3a719eb8
+      internalID: 1141914566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6e5fcf706c4299be165b7532da61e
+      internalID: 614460101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9974c6aea0bf4f66ae34c1d8cd682c6
+      internalID: -2062246889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Roguelike_1-14-12-crop-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8af9f5a108b43e4acfe49d629d3d44
+      internalID: -2011720657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b4d7d6d8ea36d4ac2b84f2b81277d932
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The_Roguelike_1-14-12-crop-removebg-preview_0: 4370618035019766383
+      The_Roguelike_1-14-12-crop-removebg-preview_1: -8508984237861390590
+      The_Roguelike_1-14-12-crop-removebg-preview_10: 543922425865760733
+      The_Roguelike_1-14-12-crop-removebg-preview_100: 405735669
+      The_Roguelike_1-14-12-crop-removebg-preview_101: -1310062596
+      The_Roguelike_1-14-12-crop-removebg-preview_102: 2021809438
+      The_Roguelike_1-14-12-crop-removebg-preview_103: -1081608989
+      The_Roguelike_1-14-12-crop-removebg-preview_104: 1112424809
+      The_Roguelike_1-14-12-crop-removebg-preview_105: -1367277273
+      The_Roguelike_1-14-12-crop-removebg-preview_106: 827312192
+      The_Roguelike_1-14-12-crop-removebg-preview_107: 789858893
+      The_Roguelike_1-14-12-crop-removebg-preview_108: 607593337
+      The_Roguelike_1-14-12-crop-removebg-preview_109: -1913599840
+      The_Roguelike_1-14-12-crop-removebg-preview_11: 3092930302439241897
+      The_Roguelike_1-14-12-crop-removebg-preview_110: -1206083758
+      The_Roguelike_1-14-12-crop-removebg-preview_111: 1978246209
+      The_Roguelike_1-14-12-crop-removebg-preview_112: 1631832898
+      The_Roguelike_1-14-12-crop-removebg-preview_113: 641378687
+      The_Roguelike_1-14-12-crop-removebg-preview_114: -979440864
+      The_Roguelike_1-14-12-crop-removebg-preview_115: 678372653
+      The_Roguelike_1-14-12-crop-removebg-preview_116: 2138577647
+      The_Roguelike_1-14-12-crop-removebg-preview_117: -450165038
+      The_Roguelike_1-14-12-crop-removebg-preview_118: 907742472
+      The_Roguelike_1-14-12-crop-removebg-preview_119: -1876062922
+      The_Roguelike_1-14-12-crop-removebg-preview_12: 7394424673043452386
+      The_Roguelike_1-14-12-crop-removebg-preview_120: -587771463
+      The_Roguelike_1-14-12-crop-removebg-preview_121: 315452112
+      The_Roguelike_1-14-12-crop-removebg-preview_122: -803474443
+      The_Roguelike_1-14-12-crop-removebg-preview_123: -1845991191
+      The_Roguelike_1-14-12-crop-removebg-preview_124: 1620919140
+      The_Roguelike_1-14-12-crop-removebg-preview_125: 717875923
+      The_Roguelike_1-14-12-crop-removebg-preview_126: -859511976
+      The_Roguelike_1-14-12-crop-removebg-preview_127: 1423875139
+      The_Roguelike_1-14-12-crop-removebg-preview_128: -1246627928
+      The_Roguelike_1-14-12-crop-removebg-preview_129: 872115112
+      The_Roguelike_1-14-12-crop-removebg-preview_13: -7013455268680221139
+      The_Roguelike_1-14-12-crop-removebg-preview_130: -1415232916
+      The_Roguelike_1-14-12-crop-removebg-preview_131: -107461392
+      The_Roguelike_1-14-12-crop-removebg-preview_132: -190824377
+      The_Roguelike_1-14-12-crop-removebg-preview_133: 703860774
+      The_Roguelike_1-14-12-crop-removebg-preview_134: 444367375
+      The_Roguelike_1-14-12-crop-removebg-preview_135: 1413014016
+      The_Roguelike_1-14-12-crop-removebg-preview_136: -709554938
+      The_Roguelike_1-14-12-crop-removebg-preview_137: -599223478
+      The_Roguelike_1-14-12-crop-removebg-preview_138: -332095560
+      The_Roguelike_1-14-12-crop-removebg-preview_139: -1992886869
+      The_Roguelike_1-14-12-crop-removebg-preview_14: 6236153610255338078
+      The_Roguelike_1-14-12-crop-removebg-preview_140: -1150670283
+      The_Roguelike_1-14-12-crop-removebg-preview_141: 1488088372
+      The_Roguelike_1-14-12-crop-removebg-preview_142: 900663758
+      The_Roguelike_1-14-12-crop-removebg-preview_143: 2126264973
+      The_Roguelike_1-14-12-crop-removebg-preview_144: -471199177
+      The_Roguelike_1-14-12-crop-removebg-preview_145: 1172460743
+      The_Roguelike_1-14-12-crop-removebg-preview_146: 278874323
+      The_Roguelike_1-14-12-crop-removebg-preview_147: 601927252
+      The_Roguelike_1-14-12-crop-removebg-preview_148: -935376456
+      The_Roguelike_1-14-12-crop-removebg-preview_149: 2047517908
+      The_Roguelike_1-14-12-crop-removebg-preview_15: 6799403158346017339
+      The_Roguelike_1-14-12-crop-removebg-preview_150: 1749109224
+      The_Roguelike_1-14-12-crop-removebg-preview_151: -713843685
+      The_Roguelike_1-14-12-crop-removebg-preview_152: 1774371704
+      The_Roguelike_1-14-12-crop-removebg-preview_153: -1849860629
+      The_Roguelike_1-14-12-crop-removebg-preview_154: -1350153560
+      The_Roguelike_1-14-12-crop-removebg-preview_155: 1391069252
+      The_Roguelike_1-14-12-crop-removebg-preview_156: 1669214267
+      The_Roguelike_1-14-12-crop-removebg-preview_157: 881753993
+      The_Roguelike_1-14-12-crop-removebg-preview_158: 1143321477
+      The_Roguelike_1-14-12-crop-removebg-preview_159: -2026163693
+      The_Roguelike_1-14-12-crop-removebg-preview_16: 2016850900932375095
+      The_Roguelike_1-14-12-crop-removebg-preview_160: 1777406740
+      The_Roguelike_1-14-12-crop-removebg-preview_161: 730898217
+      The_Roguelike_1-14-12-crop-removebg-preview_162: 650018124
+      The_Roguelike_1-14-12-crop-removebg-preview_163: 894345222
+      The_Roguelike_1-14-12-crop-removebg-preview_164: -393590603
+      The_Roguelike_1-14-12-crop-removebg-preview_165: -281263358
+      The_Roguelike_1-14-12-crop-removebg-preview_166: 1558273924
+      The_Roguelike_1-14-12-crop-removebg-preview_167: -494412085
+      The_Roguelike_1-14-12-crop-removebg-preview_168: -1564060311
+      The_Roguelike_1-14-12-crop-removebg-preview_169: 237796284
+      The_Roguelike_1-14-12-crop-removebg-preview_17: -2050596574289939752
+      The_Roguelike_1-14-12-crop-removebg-preview_170: -592712636
+      The_Roguelike_1-14-12-crop-removebg-preview_171: -1956958186
+      The_Roguelike_1-14-12-crop-removebg-preview_172: 1769690521
+      The_Roguelike_1-14-12-crop-removebg-preview_173: 2111059499
+      The_Roguelike_1-14-12-crop-removebg-preview_174: 1307467358
+      The_Roguelike_1-14-12-crop-removebg-preview_175: 692669561
+      The_Roguelike_1-14-12-crop-removebg-preview_176: -741809337
+      The_Roguelike_1-14-12-crop-removebg-preview_177: -856057863
+      The_Roguelike_1-14-12-crop-removebg-preview_178: -1228458808
+      The_Roguelike_1-14-12-crop-removebg-preview_179: 143062298
+      The_Roguelike_1-14-12-crop-removebg-preview_18: -3965919398289715652
+      The_Roguelike_1-14-12-crop-removebg-preview_180: 572813977
+      The_Roguelike_1-14-12-crop-removebg-preview_181: 1255278270
+      The_Roguelike_1-14-12-crop-removebg-preview_182: -421826639
+      The_Roguelike_1-14-12-crop-removebg-preview_183: 2122084220
+      The_Roguelike_1-14-12-crop-removebg-preview_184: -599345871
+      The_Roguelike_1-14-12-crop-removebg-preview_185: 1141914566
+      The_Roguelike_1-14-12-crop-removebg-preview_186: 614460101
+      The_Roguelike_1-14-12-crop-removebg-preview_187: -2062246889
+      The_Roguelike_1-14-12-crop-removebg-preview_188: -2011720657
+      The_Roguelike_1-14-12-crop-removebg-preview_19: -1422070899186480380
+      The_Roguelike_1-14-12-crop-removebg-preview_2: -6626022818213237988
+      The_Roguelike_1-14-12-crop-removebg-preview_20: -3758927982046750326
+      The_Roguelike_1-14-12-crop-removebg-preview_21: -2785081253094723963
+      The_Roguelike_1-14-12-crop-removebg-preview_22: -48262025992364178
+      The_Roguelike_1-14-12-crop-removebg-preview_23: 9122601454110294482
+      The_Roguelike_1-14-12-crop-removebg-preview_24: -8967350840980802145
+      The_Roguelike_1-14-12-crop-removebg-preview_25: -2373179211977349292
+      The_Roguelike_1-14-12-crop-removebg-preview_26: 8507144272952023050
+      The_Roguelike_1-14-12-crop-removebg-preview_27: 2143559293066072712
+      The_Roguelike_1-14-12-crop-removebg-preview_28: 689705019278926004
+      The_Roguelike_1-14-12-crop-removebg-preview_29: 7381919660431217742
+      The_Roguelike_1-14-12-crop-removebg-preview_3: 4600166986260641222
+      The_Roguelike_1-14-12-crop-removebg-preview_30: 7119161320109660172
+      The_Roguelike_1-14-12-crop-removebg-preview_31: 8237219897382789119
+      The_Roguelike_1-14-12-crop-removebg-preview_32: 5559286089007837928
+      The_Roguelike_1-14-12-crop-removebg-preview_33: 7759012704434317360
+      The_Roguelike_1-14-12-crop-removebg-preview_34: 8325327935041175173
+      The_Roguelike_1-14-12-crop-removebg-preview_35: 4253192292666248170
+      The_Roguelike_1-14-12-crop-removebg-preview_36: 4692216899014218578
+      The_Roguelike_1-14-12-crop-removebg-preview_37: 257338460751126725
+      The_Roguelike_1-14-12-crop-removebg-preview_38: 5948978334361478904
+      The_Roguelike_1-14-12-crop-removebg-preview_39: -2591213469068147085
+      The_Roguelike_1-14-12-crop-removebg-preview_4: 7091585257315387383
+      The_Roguelike_1-14-12-crop-removebg-preview_40: -8406060407715207387
+      The_Roguelike_1-14-12-crop-removebg-preview_41: 534939191409552919
+      The_Roguelike_1-14-12-crop-removebg-preview_42: 2422939671845979817
+      The_Roguelike_1-14-12-crop-removebg-preview_43: 7020954606026277108
+      The_Roguelike_1-14-12-crop-removebg-preview_44: -8943064417876814035
+      The_Roguelike_1-14-12-crop-removebg-preview_45: 2353300531776249498
+      The_Roguelike_1-14-12-crop-removebg-preview_46: 1033893480613603273
+      The_Roguelike_1-14-12-crop-removebg-preview_47: 6507407098851724583
+      The_Roguelike_1-14-12-crop-removebg-preview_48: -4192204686358799076
+      The_Roguelike_1-14-12-crop-removebg-preview_49: 7774111901812800548
+      The_Roguelike_1-14-12-crop-removebg-preview_5: 1352341375264774807
+      The_Roguelike_1-14-12-crop-removebg-preview_50: 6131089841505144069
+      The_Roguelike_1-14-12-crop-removebg-preview_51: 1430132819
+      The_Roguelike_1-14-12-crop-removebg-preview_52: 719136090
+      The_Roguelike_1-14-12-crop-removebg-preview_53: 2010617713
+      The_Roguelike_1-14-12-crop-removebg-preview_54: -469623487
+      The_Roguelike_1-14-12-crop-removebg-preview_55: -2103010295
+      The_Roguelike_1-14-12-crop-removebg-preview_56: 428609375
+      The_Roguelike_1-14-12-crop-removebg-preview_57: -433447447
+      The_Roguelike_1-14-12-crop-removebg-preview_58: -1900108987
+      The_Roguelike_1-14-12-crop-removebg-preview_59: -2108804885
+      The_Roguelike_1-14-12-crop-removebg-preview_6: -4882038907589981525
+      The_Roguelike_1-14-12-crop-removebg-preview_60: 50519490
+      The_Roguelike_1-14-12-crop-removebg-preview_61: -779476266
+      The_Roguelike_1-14-12-crop-removebg-preview_62: 1301463345
+      The_Roguelike_1-14-12-crop-removebg-preview_63: 1010526242
+      The_Roguelike_1-14-12-crop-removebg-preview_64: 910100333
+      The_Roguelike_1-14-12-crop-removebg-preview_65: 1730294506
+      The_Roguelike_1-14-12-crop-removebg-preview_66: -156332040
+      The_Roguelike_1-14-12-crop-removebg-preview_67: 437539488
+      The_Roguelike_1-14-12-crop-removebg-preview_68: -211795571
+      The_Roguelike_1-14-12-crop-removebg-preview_69: 1087418836
+      The_Roguelike_1-14-12-crop-removebg-preview_7: -913498947293845507
+      The_Roguelike_1-14-12-crop-removebg-preview_70: 2054900436
+      The_Roguelike_1-14-12-crop-removebg-preview_71: 1552148473
+      The_Roguelike_1-14-12-crop-removebg-preview_72: 1144075341
+      The_Roguelike_1-14-12-crop-removebg-preview_73: 710693917
+      The_Roguelike_1-14-12-crop-removebg-preview_74: -1302969987
+      The_Roguelike_1-14-12-crop-removebg-preview_75: 1464196296
+      The_Roguelike_1-14-12-crop-removebg-preview_76: -1319024143
+      The_Roguelike_1-14-12-crop-removebg-preview_77: 1454013205
+      The_Roguelike_1-14-12-crop-removebg-preview_78: -1441740755
+      The_Roguelike_1-14-12-crop-removebg-preview_79: -1824073599
+      The_Roguelike_1-14-12-crop-removebg-preview_8: -5564089313151562574
+      The_Roguelike_1-14-12-crop-removebg-preview_80: 558522424
+      The_Roguelike_1-14-12-crop-removebg-preview_81: 93625882
+      The_Roguelike_1-14-12-crop-removebg-preview_82: 1846727171
+      The_Roguelike_1-14-12-crop-removebg-preview_83: -2016915059
+      The_Roguelike_1-14-12-crop-removebg-preview_84: -2110379424
+      The_Roguelike_1-14-12-crop-removebg-preview_85: -164741660
+      The_Roguelike_1-14-12-crop-removebg-preview_86: 1781787344
+      The_Roguelike_1-14-12-crop-removebg-preview_87: -1144082547
+      The_Roguelike_1-14-12-crop-removebg-preview_88: 1635451818
+      The_Roguelike_1-14-12-crop-removebg-preview_89: 611376301
+      The_Roguelike_1-14-12-crop-removebg-preview_9: 1299934596127975090
+      The_Roguelike_1-14-12-crop-removebg-preview_90: -2098500819
+      The_Roguelike_1-14-12-crop-removebg-preview_91: 169254302
+      The_Roguelike_1-14-12-crop-removebg-preview_92: 151295423
+      The_Roguelike_1-14-12-crop-removebg-preview_93: 903484800
+      The_Roguelike_1-14-12-crop-removebg-preview_94: -2058315542
+      The_Roguelike_1-14-12-crop-removebg-preview_95: -1284733119
+      The_Roguelike_1-14-12-crop-removebg-preview_96: -660993850
+      The_Roguelike_1-14-12-crop-removebg-preview_97: -632760620
+      The_Roguelike_1-14-12-crop-removebg-preview_98: -2120573329
+      The_Roguelike_1-14-12-crop-removebg-preview_99: 52290130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
