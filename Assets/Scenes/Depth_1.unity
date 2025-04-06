@@ -152,9 +152,9 @@ MonoBehaviour:
   floorTile: {fileID: 11400000, guid: d001c985d4d66458bb286c5c8d053c4f, type: 2}
   wallTile: {fileID: 11400000, guid: d633497489d954135a298c8b86da11f2, type: 2}
   exitTile: {fileID: 11400000, guid: 483fb6002a9d44f34b680f407fdaf55e, type: 2}
-  width: 50
-  height: 50
-  walkLength: 100
+  width: 200
+  height: 200
+  walkLength: 300
   playerPrefab: {fileID: 6797919606176495701, guid: e2ee3e11d896c42aab53c0bc3c9c6e1c, type: 3}
   _virtualCamera: {fileID: 722380664}
 --- !u!4 &341368274
@@ -439,8 +439,8 @@ Camera:
   m_GameObject: {fileID: 1103052370}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.0627451, g: 0.0627451, b: 0.0627451, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -617,6 +617,63 @@ Transform:
   - {fileID: 423155104}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1477703785346022667
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.417276
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5839963
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7932816982182648623, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8738944951675684233, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
+      propertyPath: m_Name
+      value: Global Light 2D
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2c37d1cbc570147109eb7b74e0125adc, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -625,3 +682,4 @@ SceneRoots:
   - {fileID: 1501106620}
   - {fileID: 341368274}
   - {fileID: 722380665}
+  - {fileID: 1477703785346022667}

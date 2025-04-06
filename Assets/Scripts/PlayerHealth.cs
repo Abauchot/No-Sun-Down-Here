@@ -23,8 +23,12 @@ public class PlayerHealth : MonoBehaviour
     private void Awake()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
-        currentHealth = MaxHealth;
         _spriteRenderer = GetComponent<SpriteRenderer>();
+        currentHealth = MaxHealth;
+    }
+
+    private void Start()
+    {
         UpdateHealthUI();
     }
     
@@ -80,5 +84,12 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log("Player has died.");
     }
+    
+    public void InjectUI(List<Image> segments)
+    {
+        healthSegments = segments;
+        UpdateHealthUI();
+    }
+
 
 }

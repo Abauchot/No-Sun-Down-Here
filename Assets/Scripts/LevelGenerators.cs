@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using System.Collections.Generic;
 using Unity.Cinemachine;
+using UnityEngine.UI;
 
 public class LevelGenerators : MonoBehaviour
 {
@@ -97,17 +98,39 @@ public class LevelGenerators : MonoBehaviour
         return furthest;
     }
     
-    private void SpawnPlayer(Vector2Int spawnPos)
+    void SpawnPlayer(Vector2Int spawnPos)
     {
-        Vector3 worldPos = new Vector3(spawnPos.x + 0.5f, spawnPos.y + 0.5f, 0);
-        GameObject player = Instantiate(playerPrefab, worldPos, Quaternion.identity);
-        
+        Vector3 worldPos = new Vector3(spawnPos.x + 0.5f, spawnPos.y + 0.5f, 0f);
+        GameObject playerInstance = Instantiate(playerPrefab, worldPos, Quaternion.identity);
+
         if (_virtualCamera != null)
         {
-            _virtualCamera.Follow = player.transform;
+            _virtualCamera.Follow = playerInstance.transform;
+            _virtualCamera.LookAt = playerInstance.transform;
+            _virtualCamera.Lens.OrthographicSize = 5f;
+        }
+        
+        var healthScript = playerInstance.GetComponent<PlayerHealth>();
+        var canvas = GameObject.Find("Canvas");
+
+        if (healthScript != null && canvas != null)
+        {
+            Transform container = canvas.transform.Find("HealthBarContainer");
+
+            if (container != null)
+            {
+                var segments = new List<Image>();
+                for (int i = 1; i <= PlayerHealth.MaxHealth; i++)
+                {
+                    var segment = container.Find($"Segment_{i}")?.GetComponent<Image>();
+                    if (segment != null)
+                        segments.Add(segment);
+                }
+
+                healthScript.InjectUI(segments);
+            }
         }
     }
-
 
 
     private Vector2Int GetRandomDirection()
