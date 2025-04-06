@@ -10,6 +10,9 @@ public class PlayerLocomotionInput : MonoBehaviour, PlayerControls.IPlayerAction
     public bool FirePressed { get;  set; }
     public  bool MeleePressed { get; set; }
     public bool ToggleLightsPressed { get; set; }
+    public bool InteractPressed { get; set; }
+    
+    
     
     
     private void OnEnable()
@@ -72,6 +75,18 @@ public class PlayerLocomotionInput : MonoBehaviour, PlayerControls.IPlayerAction
         else if (context.canceled)
         {
             ToggleLightsPressed = false;
+        }
+    }
+    
+    public void OnInteract(InputAction.CallbackContext context)
+    {
+        if (context.started)
+        {
+            InteractPressed = true;
+        }  
+        else if (context.canceled)
+        {
+            InteractPressed = false;
         }
     }
 }
