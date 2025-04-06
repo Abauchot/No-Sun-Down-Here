@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using System.Collections.Generic;
+using Unity.Cinemachine;
 
 public class LevelGenerators : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class LevelGenerators : MonoBehaviour
     public int walkLength = 100;
 
     private HashSet<Vector2Int> _floorPositions = new HashSet<Vector2Int>();
+    [SerializeField] private GameObject playerPrefab;
+    [SerializeField] private CinemachineCamera _virtualCamera;
 
     void Start()
     {
@@ -63,11 +66,49 @@ public class LevelGenerators : MonoBehaviour
 
         // add exit from the last position by last position of the walk
         tilemap.SetTile((Vector3Int)currentPos, exitTile);
+        // Placement de la sortie
+        Vector2Int exitPos = currentPos;
+        tilemap.SetTile((Vector3Int)exitPos, exitTile);
 
-        // center the camera on the level
-        Vector3 center = new Vector3(width / 2f, height / 2f, -10f);
-        Camera.main.transform.position = center;
+        // Trouve le point le plus éloigné de la sortie pour le spawn joueur
+        Vector2Int playerSpawnPos = GetFurthestFloorPosition(exitPos);
+        SpawnPlayer(playerSpawnPos);
+
+        // Positionne la caméra principale si besoin
+        Camera.main.transform.position = new Vector3(playerSpawnPos.x, playerSpawnPos.y, -10f);
+
     }
+    
+    private Vector2Int GetFurthestFloorPosition(Vector2Int from)
+    {
+        Vector2Int furthest = from;
+        float maxDist = 0f;
+
+        foreach (var pos in _floorPositions)
+        {
+            float dist = Vector2Int.Distance(pos, from);
+            if (dist > maxDist)
+            {
+                maxDist = dist;
+                furthest = pos;
+            }
+        }
+
+        return furthest;
+    }
+    
+    private void SpawnPlayer(Vector2Int spawnPos)
+    {
+        Vector3 worldPos = new Vector3(spawnPos.x + 0.5f, spawnPos.y + 0.5f, 0);
+        GameObject player = Instantiate(playerPrefab, worldPos, Quaternion.identity);
+        
+        if (_virtualCamera != null)
+        {
+            _virtualCamera.Follow = player.transform;
+        }
+    }
+
+
 
     private Vector2Int GetRandomDirection()
     {
