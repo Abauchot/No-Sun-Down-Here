@@ -123,7 +123,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7403295172163490633}
-  - component: {fileID: 4511422531063757556}
   - component: {fileID: 4307540307986405436}
   m_Layer: 0
   m_Name: firePoint
@@ -148,18 +147,6 @@ Transform:
   - {fileID: 6291837444777824060}
   m_Father: {fileID: 5814000733815946627}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4511422531063757556
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4481948745647853082}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6fe8b9659ac7846828bae509613913b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!212 &4307540307986405436
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -233,6 +220,7 @@ GameObject:
   - component: {fileID: 3975765437811980529}
   - component: {fileID: 9128042310350799971}
   - component: {fileID: 4198235104815521372}
+  - component: {fileID: -6738325331942573509}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -469,3 +457,18 @@ MonoBehaviour:
   - {fileID: 0}
   filledSegment: {fileID: -8647242238388663334, guid: 0c9fd29373c314e1e90429e3e621bef0, type: 3}
   emptySegment: {fileID: -3994751572382323620, guid: 92a40202373134705a35653981dc4996, type: 3}
+--- !u!114 &-6738325331942573509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6797919606176495701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7c684e302b449e5ab1587239fb955c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tilemap: {fileID: 0}
+  hubTile: {fileID: 11400000, guid: c27bae73248ac446499bf17eed8fe0f8, type: 2}
+  interactPrompt: {fileID: 0}

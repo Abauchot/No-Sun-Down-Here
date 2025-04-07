@@ -29,7 +29,10 @@ public class PlayerHealth : MonoBehaviour
 
     private void Start()
     {
-        UpdateHealthUI();
+        if (healthSegments is { Count: > 0 })
+        {
+            UpdateHealthUI();
+        }
     }
     
     public void TakeDamage(int damage, Vector2 sourcePosition)
@@ -74,6 +77,8 @@ public class PlayerHealth : MonoBehaviour
     
     private void UpdateHealthUI()
     {
+        if (healthSegments == null || healthSegments.Count == 0) return;
+    
         for (int i = 0; i < healthSegments.Count; i++)
         {
             healthSegments[i].sprite = i < currentHealth ? filledSegment : emptySegment;

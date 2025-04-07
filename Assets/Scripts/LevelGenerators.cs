@@ -10,22 +10,22 @@ public class LevelGenerators : MonoBehaviour
     public TileBase floorTile;
     public TileBase wallTile;
     public TileBase exitTile;
-
-    [Header("Map Settings")]
-    public int width = 50;
+    public TileBase hubTile;
+    [SerializeField] private GameObject interactPrompt;
+    [Header("Map Settings")] public int width = 50;
     public int height = 50;
     public int walkLength = 100;
 
-    private HashSet<Vector2Int> _floorPositions = new HashSet<Vector2Int>();
+    private readonly HashSet<Vector2Int> _floorPositions = new HashSet<Vector2Int>();
     [SerializeField] private GameObject playerPrefab;
-    [SerializeField] private CinemachineCamera _virtualCamera;
+    [SerializeField] private CinemachineCamera virtualCamera;
 
     void Start()
     {
         GenerateLevel();
     }
 
-    void GenerateLevel()
+    private void GenerateLevel()
     {
         tilemap.ClearAllTiles();
         _floorPositions.Clear();
@@ -66,20 +66,21 @@ public class LevelGenerators : MonoBehaviour
         }
 
         // add exit from the last position by last position of the walk
-        tilemap.SetTile((Vector3Int)currentPos, exitTile);
-        // Placement de la sortie
         Vector2Int exitPos = currentPos;
         tilemap.SetTile((Vector3Int)exitPos, exitTile);
 
-        // Trouve le point le plus éloigné de la sortie pour le spawn joueur
+        // find a point the most far away from the player for exit
         Vector2Int playerSpawnPos = GetFurthestFloorPosition(exitPos);
         SpawnPlayer(playerSpawnPos);
 
-        // Positionne la caméra principale si besoin
-        Camera.main.transform.position = new Vector3(playerSpawnPos.x, playerSpawnPos.y, -10f);
+        // putting the camera on the player
+        if (Camera.main != null)
+            Camera.main.transform.position = new Vector3(playerSpawnPos.x, playerSpawnPos.y, -10f);
 
+        // add hub tile to the player spawn position
+        tilemap.SetTile((Vector3Int)playerSpawnPos, hubTile);
     }
-    
+
     private Vector2Int GetFurthestFloorPosition(Vector2Int from)
     {
         Vector2Int furthest = from;
@@ -97,41 +98,53 @@ public class LevelGenerators : MonoBehaviour
 
         return furthest;
     }
-    
+
     void SpawnPlayer(Vector2Int spawnPos)
     {
         Vector3 worldPos = new Vector3(spawnPos.x + 0.5f, spawnPos.y + 0.5f, 0f);
         GameObject playerInstance = Instantiate(playerPrefab, worldPos, Quaternion.identity);
 
-        if (_virtualCamera != null)
+        // Camera setup
+        if (virtualCamera != null)
         {
-            _virtualCamera.Follow = playerInstance.transform;
-            _virtualCamera.LookAt = playerInstance.transform;
-            _virtualCamera.Lens.OrthographicSize = 5f;
+            virtualCamera.Follow = playerInstance.transform;
+            virtualCamera.LookAt = playerInstance.transform;
+            virtualCamera.Lens.OrthographicSize = 5f;
         }
-        
+
+        // return to hub setup
+        ReturnToHub returnScript = playerInstance.GetComponent<ReturnToHub>();
+        if (returnScript != null)
+        {
+            returnScript.SetHubTile(hubTile);
+            returnScript.SetTilemap(tilemap);
+            returnScript.SetInteractPrompt(interactPrompt);
+        }
+
+        // health bar setup
+        SetupHealthBar(playerInstance);
+    }
+
+    private void SetupHealthBar(GameObject playerInstance)
+    {
         var healthScript = playerInstance.GetComponent<PlayerHealth>();
         var canvas = GameObject.Find("Canvas");
 
-        if (healthScript != null && canvas != null)
+        if (healthScript == null || canvas == null) return;
+
+        Transform container = canvas.transform.Find("HealthBarContainer");
+        if (container == null) return;
+
+        var segments = new List<Image>();
+        for (int i = 1; i <= PlayerHealth.MaxHealth; i++)
         {
-            Transform container = canvas.transform.Find("HealthBarContainer");
-
-            if (container != null)
-            {
-                var segments = new List<Image>();
-                for (int i = 1; i <= PlayerHealth.MaxHealth; i++)
-                {
-                    var segment = container.Find($"Segment_{i}")?.GetComponent<Image>();
-                    if (segment != null)
-                        segments.Add(segment);
-                }
-
-                healthScript.InjectUI(segments);
-            }
+            var segment = container.Find($"Segment_{i}")?.GetComponent<Image>();
+            if (segment != null)
+                segments.Add(segment);
         }
-    }
 
+        healthScript.InjectUI(segments);
+    }
 
     private Vector2Int GetRandomDirection()
     {

@@ -6,6 +6,13 @@ public class TorchController : MonoBehaviour
     [SerializeField] private Light2D torchLight;
     [SerializeField] private PlayerLocomotionInput playerLocomotionInput;
 
+
+    private void Start()
+    {
+        string currentSceneName = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
+        torchLight.enabled = (currentSceneName != "Hub");
+    }
+
     void Update()
     {
         if (playerLocomotionInput.ToggleLightsPressed)
@@ -18,6 +25,6 @@ public class TorchController : MonoBehaviour
     private void ToggleTorch()
     {
         torchLight.enabled = !torchLight.enabled;
-        Debug.Log("Lampe torche " + (torchLight.enabled ? "allumée" : "éteinte"));
+        
     }
 }
