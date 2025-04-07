@@ -11,7 +11,12 @@ public class LevelGenerators : MonoBehaviour
     public TileBase wallTile;
     public TileBase exitTile;
     public TileBase hubTile;
-    [SerializeField] private GameObject interactPrompt;
+    
+    [Header("Loot Settings")]
+    public List<GameObject> lootPrefabs; 
+    [Range(0f, 1f)] public float lootSpawnChance = 0.1f; 
+
+   
     [Header("Map Settings")] public int width = 50;
     public int height = 50;
     public int walkLength = 100;
@@ -19,6 +24,7 @@ public class LevelGenerators : MonoBehaviour
     private readonly HashSet<Vector2Int> _floorPositions = new HashSet<Vector2Int>();
     [SerializeField] private GameObject playerPrefab;
     [SerializeField] private CinemachineCamera virtualCamera;
+    [SerializeField] private GameObject interactPrompt;
 
     void Start()
     {
@@ -51,6 +57,8 @@ public class LevelGenerators : MonoBehaviour
         {
             tilemap.SetTile((Vector3Int)pos, floorTile);
         }
+        
+        
 
         // adding walls
         foreach (Vector2Int pos in _floorPositions)
@@ -64,6 +72,7 @@ public class LevelGenerators : MonoBehaviour
                 }
             }
         }
+        
 
         // add exit from the last position by last position of the walk
         Vector2Int exitPos = currentPos;
@@ -79,6 +88,9 @@ public class LevelGenerators : MonoBehaviour
 
         // add hub tile to the player spawn position
         tilemap.SetTile((Vector3Int)playerSpawnPos, hubTile);
+        
+        SpawnLoot(exitPos, playerSpawnPos);
+
     }
 
     private Vector2Int GetFurthestFloorPosition(Vector2Int from)
@@ -162,4 +174,29 @@ public class LevelGenerators : MonoBehaviour
     {
         Vector2Int.up, Vector2Int.down, Vector2Int.left, Vector2Int.right
     };
+    
+    private void SpawnLoot(Vector2Int exitPos, Vector2Int playerSpawnPos)
+    {
+        if (lootPrefabs == null || lootPrefabs.Count == 0) return;
+
+        int lootCount = 0;
+
+        foreach (Vector2Int pos in _floorPositions)
+        {
+            if (pos == exitPos || pos == playerSpawnPos) continue;
+
+            if (Random.value < lootSpawnChance)
+            {
+                Vector3 worldPos = new Vector3(pos.x + 0.5f, pos.y + 0.5f, -0.1f);
+                GameObject lootPrefab = lootPrefabs[Random.Range(0, lootPrefabs.Count)];
+                Instantiate(lootPrefab, worldPos, Quaternion.identity);
+                lootCount++;
+            }
+        }
+
+        Debug.Log($"[LOOT] {lootCount} objets spawnés.");
+    }
+
+
+
 }

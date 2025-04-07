@@ -232,11 +232,18 @@ MonoBehaviour:
   wallTile: {fileID: 11400000, guid: d633497489d954135a298c8b86da11f2, type: 2}
   exitTile: {fileID: 11400000, guid: 483fb6002a9d44f34b680f407fdaf55e, type: 2}
   hubTile: {fileID: 11400000, guid: c27bae73248ac446499bf17eed8fe0f8, type: 2}
+  lootPrefabs:
+  - {fileID: 2191189453324392724, guid: c360dd28f634c498fb80ed535ae47ec1, type: 3}
+  - {fileID: 7779675090812430680, guid: 1784065f0ad564ed196202f4304b4ec9, type: 3}
+  - {fileID: 740407352228443917, guid: 638ec235bd42c4c62af473ecba7d40c5, type: 3}
+  - {fileID: 4910358903208437570, guid: b9954f885b4914db48b6163c15598db4, type: 3}
+  lootSpawnChance: 0.05
   width: 200
   height: 200
   walkLength: 300
   playerPrefab: {fileID: 6797919606176495701, guid: e2ee3e11d896c42aab53c0bc3c9c6e1c, type: 3}
   virtualCamera: {fileID: 722380664}
+  interactPrompt: {fileID: 1846263874}
 --- !u!4 &341368274
 Transform:
   m_ObjectHideFlags: 0
@@ -964,9 +971,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e7c684e302b449e5ab1587239fb955c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tilemap: {fileID: 423155106}
-  hubTile: {fileID: 11400000, guid: c27bae73248ac446499bf17eed8fe0f8, type: 2}
-  interactPrompt: {fileID: 1846263874}
 --- !u!4 &2039291177
 Transform:
   m_ObjectHideFlags: 0
